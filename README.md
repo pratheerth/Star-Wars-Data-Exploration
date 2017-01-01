@@ -1,5 +1,5 @@
 # Star-Wars-Data-Exploration
-Analyzing a Star Wars movie dataset.
+##Analyzing a Star Wars movie dataset.
 
 
 The dataset contains a SurveyMonkey survey of Star Wars fan by the good folks at FiveThirtyEight. They receieved a total of **835** responses.
